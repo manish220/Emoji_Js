@@ -1,1 +1,1 @@
-# Emoji_Js
+"Feedback" is an interactive project that uses a unique feature to change expressions based on the number of stars clicked. The project aims to gather feedback from users in a creative and engaging way.  Upon accessing the project, users will see a blank screen with a prompt to provide feedback by clicking on stars ranging from one to five. Each click on a star will trigger a change in the expression displayed on the screen. For instance, clicking on one star could show a frowning face, while clicking on five stars could display a smiling face with closed eyes.
